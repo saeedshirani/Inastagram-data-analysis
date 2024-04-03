@@ -1,0 +1,25 @@
+
+you can download dataset from here:
+
+
+
+Data Type: Instagram Account Posts Data
+
+Fields: 
+owner_id: Integer (Unique identifier for the owner of the Instagram account)
+owner_username: String (Username of the owner of the Instagram account)
+shortcode: String (Unique identifier for the post)
+is_video: Boolean (Indicator if the post is a video or not)
+caption: String (Caption text accompanying the post)
+comments: Integer (Number of comments on the post)
+likes: Integer (Number of likes on the post)
+created_at: Integer (Timestamp indicating the creation time of the post)
+location: String (Location associated with the post, if any)
+imageUrl: String (URL of the image associated with the post)
+multiple_images: Boolean (Indicator if the post contains multiple images)
+username: String (Username of the Instagram account)
+followers: Integer (Number of followers of the Instagram account)
+following: Integer (Number of accounts the Instagram account is following)
+The data was last updated Feb 2024.
+
+
