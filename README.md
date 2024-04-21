@@ -1,7 +1,7 @@
 
 ![Logo](https://i.ibb.co/Px8Jqp2/Sentiment-analysis-HUB-Final.jpg)
 
-# Inastagram-data-analysis
+# Inastagram data analysis - Sentiment Analysis
 
 
  In this project, I utilized the RoBERTa model to conduct sentiment analysis on user personas, determining the prevailing emotions among Instagram users globally and in selected regions. Subsequently, I delved into hashtag analysis to uncover the underlying emotions associated with them. This comprehensive project encompasses data validation, ETL processes, sentiment analysis, and an investigation into data integrity to ensure its reliability.
