@@ -1,5 +1,5 @@
 
-![Logo](https://ibb.co/5TVCbDQ)
+![Logo](https://i.ibb.co/Px8Jqp2/Sentiment-analysis-HUB-Final.jpg)
 
 # Inastagram-data-analysis
 
