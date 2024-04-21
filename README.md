@@ -23,8 +23,8 @@ You can download the dataset of this project from the following link: [Online Re
 |---|---|
 | **`Python`** | <img alt="Go SDK" src="https://github.com/saeedshiranii/Solide-State-1-Lab/assets/77902443/93f61ef1-817b-4866-ad40-b0334c345cae" width="150px"/> |
 | **`Pandas`**| <img alt="Go SDK" src="https://saeed-shirani2.imgbb.com/?page=2&seek=JzJxjqX" width="150px"/> |
-[ **`Sentiment Analysis`**|
-[ **`Statistics`**|
+| **`Sentiment Analysis`**|
+| **`Statistics`**|
 | **`Data Cleaning`**| <img alt="Go SDK" src="https://i.ibb.co/mGtCtxD/Data-cleaning-high-resolution-logo-transparen-1.png" width="150px"/> |
 | **`Exploratory Data Analysis`**| <img alt="Go SDK" src=https://github.com/saeedshiranii/Global-super-store/assets/77902443/f8bd7f3d-d02b-423a-978a-6231588077be height="70px" width="150px"/> |
 
