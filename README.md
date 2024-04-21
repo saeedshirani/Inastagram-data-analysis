@@ -12,7 +12,7 @@ To work with this project, you'll need to have Python installed, along with thes
 
 
 ## 🔗Dataset Link
-You can download the dataset of this project from the following link: [Online Retail Dataset](https://github.com/saeedshirani/Inastagram-data-analysis/blob/main/instagram_data.csv)
+You can download the dataset of this project from the following link: [instagram Dataset](https://github.com/saeedshirani/Inastagram-data-analysis/blob/main/instagram_data.csv)
 
 
 
